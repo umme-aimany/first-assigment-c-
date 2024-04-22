@@ -26,8 +26,8 @@ double divide(double a, double b) {
 
 int main() {
     // Hard-coded student information
-    std::cout << "Name: John Doe\n";
-    std::cout << "Student ID: VU123456\n";
+    std::cout << "Name: Umme Aiman\n";
+    std::cout << "Student ID: BC230403969\n";
 
     int choice;
     char continueChoice;
